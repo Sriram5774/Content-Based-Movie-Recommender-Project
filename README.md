@@ -1,4 +1,4 @@
-# Content-Based-Movie-Recommender-Project using cosine similarity
+# Content Based Movie Recommender Project using cosine similarity
 Recommender systems are an important class of machine learning algorithms that offer “relevant” suggestions to users. 
 Youtube, Amazon, Netflix, all function on recommendation systems where the system recommends you the next video or product based on your past activity (Content-based Filtering) or based on activities and preferences of other users similar to you (Collaborative Filtering). 
 Likewise, Facebook also uses a recommendation system to suggest Facebook users you may know offline.
